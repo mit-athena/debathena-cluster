@@ -17,6 +17,7 @@ Depends: debathena-workstation,
  debathena-thirdparty,
  debathena-recovery-mode-config,
  debathena-athinfod-cluster-config,
+ debathena-dns-config,
  ${misc:Depends}
 Conflicts: debathena-cluster-printing-config (<= 1.16)
 Description: Athena cluster configuration for Debian
