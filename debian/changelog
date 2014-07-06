@@ -1,3 +1,10 @@
+debathena-cluster (1.13) unstable; urgency=low
+
+  * Add debathena-dns-config as a Dependency, since it has been removed
+    from debathena-workstation (Trac: #1131)
+
+ -- Jonathan Reed <jdreed@mit.edu>  Sun, 06 Jul 2014 15:05:20 -0400
+
 debathena-cluster (1.12) unstable; urgency=low
 
   [ Jonathan Reed ]
